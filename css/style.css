@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.cbr{
+    background: #264653;
+}
+.purchase{
+    background: #E76F51;
+}
+.color{
+    color: #E76F51;
+}
+/* gray scale */
+.gray{
+    filter: grayscale(100%);
+}
